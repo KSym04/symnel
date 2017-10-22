@@ -1,0 +1,182 @@
+/**
+ * Gallerific Default CSS
+ */
+div.item-image-content {
+	display: none;
+	float: right;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+div.item-image-content a, div.item-image-navigation a {
+	text-decoration: none;
+	color: #777;
+	overflow: hidden;
+	height: 55px;
+}
+
+div.item-image-content a:focus, div.item-image-content a:hover, div.item-image-content a:active {
+	text-decoration: underline;
+}
+
+div.controls {
+	margin-top: 10px;
+	height: 23px;
+}
+
+div.controls a {
+	padding: 5px;
+}
+
+div.ss-controls {
+	float: left;
+	display: none;
+}
+
+div.nav-controls {
+	float: right;
+}
+
+div.slideshow-container {
+	position: relative;
+	overflow: hidden;
+	clear: auto;
+	padding-top: 0;
+}
+
+div.loader {
+	display: none;
+	height: auto;
+}
+
+div.slideshow {
+
+}
+
+div.slideshow span.image-wrapper {
+	display: block;
+}
+
+div.slideshow span.image-wrapper.previous {
+	display: none !important;
+}
+
+div.slideshow a.advance-link:hover, div.slideshow a.advance-link:active, div.slideshow a.advance-link:visited {
+	text-decoration: none;
+}
+
+div.slideshow img {
+	line-height: 50%;
+	vertical-align: middle;
+	border: none;
+	width: 100%;
+	height: auto;
+	background: #f5f5f5;
+	margin-top: -18px;
+}
+
+div.download {
+	float: right;
+}
+
+div.caption-container {
+	position: relative;
+	clear: left;
+	height: 75px;
+}
+span.image-caption {
+	display: block;
+	position: absolute;
+	width: 100%;
+	top: 0;
+	left: 0;
+}
+
+div.caption {
+	padding: 12px;
+}
+
+div.image-title {
+	font-weight: bold;
+	font-size: 1.4em;
+}
+
+div.image-desc {
+	line-height: 1.3em;
+	padding-top: 12px;
+}
+
+div.item-image-navigation {
+    border-bottom: 1px solid #e5e5e5;
+    height: 105px;
+    overflow: hidden;
+}
+
+ul.thumbs {
+	clear: both;
+	margin: 0;
+	padding: 0;
+}
+
+ul.thumbs li {
+	float: left;
+	padding: 0 3px 0 0;
+	margin: 5px 5px 15px 0;
+	list-style: none;
+}
+
+a.thumb {
+	display: block;
+	overflow: hidden;
+	width: 74px;
+}
+
+a.thumb:focus {
+	outline: none;
+}
+
+ul.thumbs img {
+	width: 100%;
+	height: auto;
+	border: none;
+	display: block;
+}
+
+div.pagination {
+	clear: both;
+}
+
+div.item-image-navigation div.top {
+	margin-bottom: 12px;
+	height: 11px;
+	display: none;
+}
+
+div.item-image-navigation div.bottom {
+	margin-top: 12px;
+	display: none;
+}
+
+div.pagination a, div.pagination span.current, div.pagination span.ellipsis {
+	display: block;
+	float: left;
+	margin-right: 2px;
+	padding: 4px 7px 2px 7px;
+	border: 1px solid #ccc;
+}
+div.pagination a:hover {
+	background-color: #eee;
+	text-decoration: none;
+}
+
+div.pagination span.current {
+	font-weight: bold;
+	background-color: #000;
+	border-color: #000;
+	color: #fff;
+}
+
+div.pagination span.ellipsis {
+	border: none;
+	padding: 5px 0 3px 2px;
+}

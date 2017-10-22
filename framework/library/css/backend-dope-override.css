@@ -1,0 +1,313 @@
+/**
+ * CSS File that override Twitter Bootstrap for backend
+ */
+
+/* General */
+.no-margin {
+  margin: 0 !important;
+}
+
+.no-padding {
+  padding: 0 !important;
+}
+
+.navbar-collapse {
+  max-height: auto;
+  margin-bottom: -1px;
+}
+
+.dopebackend-title h1 > a {
+  margin-left: 10px;
+}
+
+#dtf-form-backend .form-horizontal .control-label {
+  text-align: left;
+  padding-left: 70px;
+}
+
+.footer-inner-backend {
+  border-top: 1px solid #eee;
+  padding-top: 15px;
+  margin-top: 15px
+}
+
+.footer-copyright {
+  float: left;
+  font-size: 13px;
+}
+
+.footer-inner-menu {
+  float: right;
+}
+
+.footer-inner-menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-inner-menu li {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.guest-backend-login-form {
+  padding: 0 30px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.guest-backend-login-form h3 {
+  color: #fff;
+}
+
+.guest-backend-login-form label {
+  color: #999;
+}
+
+.guest-backend-login-form .btn {
+  float: right;
+}
+
+.guest-backend-login-form input[type="text"],
+.guest-backend-login-form input[type="password"],
+.guest-backend-login-form input[type="email"] {
+  font-size: 12px;
+}
+
+#dtf-form-backend input[type="text"], #dtf-form-backend input[type="password"], #dtf-form-backend textarea, #dtf-form-backend select {
+  display: block;
+  width: 100%;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.428571429;
+  color: #555;
+  vertical-align: middle;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+  -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+  transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+#dtf-form-backend input[type="text"]:focus, #dtf-form-backend input[type="password"]:focus, #dtf-form-backend textarea:focus, #dtf-form-backend select:focus, #dtf-form-backend input[type="text"]:hover, #dtf-form-backend input[type="password"]:hover, #dtf-form-backend textarea:hover, #dtf-form-backend select:hover {
+  border: 1px solid #bbb;
+}
+
+#dtf-form-backend textarea  {
+  height: auto;
+}
+
+#dtf-form-backend .currency-btn {
+  position: absolute;
+  right: -85px;
+  top: 0;
+}
+
+.qq-upload-delete {
+  color: #d2322d;
+}
+
+/* All Listings */
+.all-listings-tab .nav.nav-tabs {
+  margin-bottom: 15px;
+}
+
+.all-listings-table td {
+  font-size: 12px;
+}
+
+.all-listings-table tr:hover .media-options {
+  display: block;
+  cursor: pointer;
+}
+
+.media-category {
+  font-size: 11px;
+  color: #999;
+}
+
+.media-heading {
+  font-size: 13px;
+}
+
+.media-options {
+  position: absolute;
+  display: none;
+}
+
+.media-options ul {
+  margin: 0;
+  padding: 0;
+}
+
+.media-options li {
+  list-style: none;
+  display: inline-block;
+}
+
+.media-options li:after {
+  content: '|';
+  padding: 5px;
+  color: #428bca;
+}
+
+.media-options li.last:after {
+  display: none;
+}
+
+.media-options li a {
+  font-size: 11px;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+}
+
+.media-category .label {
+  font-size: 11px;
+  font-weight: normal;
+}
+
+.form-plugin .row {
+  width: 50%;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.form-plugin h2,
+.form-plugin h3 {
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0;
+  margin: 0 0 10px;
+  text-transform: uppercase;
+}
+
+.form-plugin input,
+.form-plugin select {
+  margin-bottom: 10px;
+}
+
+.form-plugin .checkbox-list {
+  width: 100%;
+  display: block;
+  padding: 0;
+  margin: 0 0 20px;
+}
+
+.form-plugin .checkbox-list label {
+  font-weight: normal;
+}
+
+/* Account Settings */
+@media (max-width: 767px) {
+  #dtf-form-backend .form-horizontal .control-label {
+    text-align: left;
+    padding-left: 20px;
+    margin-bottom: 10px;
+  }
+
+  .footer-inner-backend {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 15px;
+    text-align: center;
+  }
+
+  .footer-copyright {
+    float: none;
+    margin-top: 10px;
+  }
+
+  .footer-inner-menu {
+    float: none;
+  }
+
+  .footer-inner-menu ul {
+    list-style: none;
+    margin: 20px 0 0;
+    padding: 0;
+  }
+
+  .footer-inner-menu li {
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 0;
+  }
+
+  #dtf-form-backend .currency-btn {
+    position: static;
+    right: auto;
+    top: auto;
+    width: 90px;
+    margin-top: 5px;
+  }
+
+  .qq-upload-list li {
+    background-color: #dff0d8!important;
+    color: #333333!important;
+    display: inline-block;
+    margin-bottom: 10px;
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    float: left;
+  }
+
+  .form-plugin {
+    width: 100%;
+  }
+
+  .form-plugin h2 {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 0;
+    margin: 0 0 10px;
+    text-transform: uppercase;
+  }
+
+  .form-plugin input,
+  .form-plugin select {
+    margin-bottom: 10px;
+  }
+
+  .form-plugin .checkbox-list {
+    width: 100%;
+    display: block;
+    padding: 0;
+    margin: 0 0 20px;
+  }
+
+  .form-plugin .checkbox-list label {
+    font-weight: normal;
+  }
+}
+
+@media screen and (max-width: 1199px) {
+  .all-listings-table .listing-thumb {
+    position: relative;
+    float: left;
+    margin-right: 15px;
+    display: block;
+    width: 115px !important;
+    height: 70px;
+    overflow: hidden;
+    text-align: center;
+  }
+
+  .all-listings-table img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-right: 15px;
+  }
+}

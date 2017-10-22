@@ -1,0 +1,48 @@
+[July 28, 2015] v1.0.5
+- Changed default Symnel logo
+- Added language file (en_US)
+- Fixed price issue
+- Fixed minor CSS issues
+- Minor CSS cleanup prefix
+
+[May 25, 2014] v1.0.4
+- Minor tweaks and fix on enqueue
+- Added missing page forgot password
+- Added Lazyload on images
+- Improved SEO on search and single item
+:: To avoid duplicate content and lots of false 404 error
+- Resources optimized and enhance theme performance
+- Fixed reCaptcha
+- Support item post/edit custom fields
+- Added hooks on item post/edit page
+- Item post/edit form field order reconstructed
+- Added price on description tab
+- Remove ini_set of charset on functions.php due to some server warnings
+:: You may just add ini_set( 'default_charset', 'utf-8' ); on your config.php
+- Added expiration date column on table user all listings
+- Added tfoot on table user all listings
+- Lowercase 'Symnel' text domain
+- Added hooks on side widgets
+- Lots of improvement and bug fixes
+
+[May 10, 2014] v1.0.1
+- Minor code cleanup
+- Minor layout adjustment
+- Logo dimension increase
+- Added thumbnail pagination on top left
+- Added 404 page
+- Added custom meta title
+- Added schema microdata on loop
+- Added theme settings (basic only)
+- Added advanced search options dropdown on main search form (basic only, desktop version and small screen)
+- Remove breadcrumb on some pages in mobile view
+- Fixed public profile pagination layout issue
+- Correct some text label
+- Change some heading html tag (SEO purposes)
+- Meta title improvement (consistency)
+- Lots of improvement and bug fixes
+
+* basic only = preparation for future development and updates
+
+[May 7, 2014] v1.0.0
+- Initial release

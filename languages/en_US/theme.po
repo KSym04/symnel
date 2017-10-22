@@ -1,0 +1,1365 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Symnel\n"
+"POT-Creation-Date: 2015-07-28 22:27+0800\n"
+"PO-Revision-Date: 2015-07-28 22:32+0800\n"
+"Last-Translator: \n"
+"Language-Team: DopeThemes <hello@dopethemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:20
+msgid "Sorry but I can't find the page you're looking for"
+msgstr ""
+
+#: 404.php:21
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr ""
+
+#: 404.php:24
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr ""
+
+#: alert-form.php:33
+msgid "You have sucessfully subscribed to the alert"
+msgstr ""
+
+#: alert-form.php:34 framework/includes/classes/dopeItemForm.class.php:756
+#: framework/includes/classes/dopeItemForm.class.php:1041
+#: framework/includes/classes/dopeUserForm.class.php:178
+#: framework/includes/classes/dopeUserForm.class.php:288
+msgid "Invalid email address"
+msgstr ""
+
+#: alert-form.php:35
+msgid "There was a problem with the alert"
+msgstr ""
+
+#: alert-form.php:44
+msgid "Get an alert to this search"
+msgstr ""
+
+#: alert-form.php:58
+msgid "Subscribe now"
+msgstr ""
+
+#: comments.php:18
+msgid "All Comments"
+msgstr ""
+
+#: comments.php:21
+msgid "All Comment"
+msgstr ""
+
+#: comments.php:30
+msgid "Guest"
+msgstr ""
+
+#: comments.php:36
+msgid "Delete your comment"
+msgstr ""
+
+#: comments.php:37 framework/includes/classes/dopeItemForm.class.php:1122
+#: framework/includes/classes/dopeItemForm.class.php:1289
+#: framework/includes/classes/dopeItemForm.class.php:1296
+#: framework/includes/classes/dopeItemForm.class.php:1441 loop-single.php:37
+msgid "Delete"
+msgstr ""
+
+#: comments.php:55
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr ""
+
+#: comments.php:64
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:70
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:77 framework/includes/classes/dopeItemForm.class.php:406
+#: item-edit.php:66 item-post.php:66 user-alerts.php:58
+msgid "Title"
+msgstr ""
+
+#: comments.php:83
+msgid "Comment"
+msgstr ""
+
+#: comments.php:90
+msgid "Post"
+msgstr ""
+
+#: contact-seller.php:13 item.php:38
+msgid "Seller"
+msgstr ""
+
+#: contact-seller.php:21 item.php:177
+msgid "The listing is expired. You can't contact the seller."
+msgstr ""
+
+#: contact-seller.php:25
+msgid "It's your own listing, you can't use this contact form."
+msgstr ""
+
+#: contact-seller.php:29 item.php:185
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
+msgstr ""
+
+#: contact-seller.php:30 framework/backend/sidebar-backend.php:75
+#: framework/includes/dt.breadcrumbs.php:34 header.php:99 header.php:137
+#: item.php:186 user-login.php:33 user-login.php:57
+msgid "Login"
+msgstr ""
+
+#: contact-seller.php:31 framework/includes/dt.breadcrumbs.php:37
+#: header.php:101 header.php:139 item.php:187 user-register.php:33
+#: user-register.php:90
+msgid "SignUp"
+msgstr ""
+
+#: contact-seller.php:55 item.php:211
+msgid "Attachment"
+msgstr ""
+
+#: contact-seller.php:79 contact.php:72 item-edit.php:208 item-post.php:208
+#: side-widgets-public-profile.php:52 user-register.php:72
+msgid "Enter the words above"
+msgstr ""
+
+#: contact-seller.php:81
+msgid "Help"
+msgstr ""
+
+#: contact-seller.php:86 item-send-friend.php:81 item.php:219
+#: side-widgets-public-profile.php:57
+msgid "Send"
+msgstr ""
+
+#: contact.php:33
+msgid "Contact Us"
+msgstr ""
+
+#: contact.php:35 side-widgets-public-profile.php:23
+msgid "Your Name*"
+msgstr ""
+
+#: contact.php:41 side-widgets-public-profile.php:26
+msgid "Your Email*"
+msgstr ""
+
+#: contact.php:47
+msgid "Subject"
+msgstr ""
+
+#: contact.php:53 item-send-friend.php:69 side-widgets-public-profile.php:32
+msgid "Message*"
+msgstr ""
+
+#: contact.php:81
+msgid ""
+"Security reminder: Do not include private information (address, home phone) "
+"in this request. <strong>Never</strong> include your password."
+msgstr ""
+
+#: contact.php:87
+msgid "Submit"
+msgstr ""
+
+#: contact.php:90 item-send-friend.php:83
+msgid "* required field"
+msgstr ""
+
+#: footer-item.php:21 framework/backend/footer-inner-backend.php:21
+#: framework/includes/dt.breadcrumbs.php:38 side-footer.php:21
+msgid "Contact"
+msgstr ""
+
+#: framework/admin/general_settings.php:56
+msgid "General Settings"
+msgstr ""
+
+#: framework/admin/general_settings.php:66
+msgid "Search placeholder"
+msgstr ""
+
+#: framework/admin/general_settings.php:70
+msgid "Terms URL"
+msgstr ""
+
+#: framework/admin/general_settings.php:74
+msgid "Privacy URL"
+msgstr ""
+
+#: framework/admin/general_settings.php:78
+msgid "Save changes"
+msgstr ""
+
+#: framework/admin/general_settings.php:90
+msgid ""
+"If you found this theme useful, please donate any amount is appreciated and "
+"it would help making this theme even better and smarter. <strong>Thank you "
+"in advance for your generosity.</strong>"
+msgstr ""
+
+#: framework/backend/sidebar-backend.php:16
+msgid "Toggle navigation"
+msgstr ""
+
+#: framework/backend/sidebar-backend.php:36
+msgid "Ad Perfomance"
+msgstr ""
+
+#: framework/backend/sidebar-backend.php:41 header.php:90 header.php:128
+msgid "Public Profile"
+msgstr ""
+
+#: framework/backend/sidebar-backend.php:46 header.php:91 header.php:129
+msgid "Manage Your Ads"
+msgstr ""
+
+#: framework/backend/sidebar-backend.php:51 functions.php:162 header.php:92
+#: header.php:130 user-profile.php:31
+msgid "Account Settings"
+msgstr ""
+
+#: framework/backend/sidebar-backend.php:57
+msgid "Log Out"
+msgstr ""
+
+#: framework/backend/sidebar-backend.php:79 functions.php:155
+#: item-post.php:34
+msgid "Post New Ads"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:40
+msgid "Select a category"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:95 item-edit.php:55
+#: item-post.php:55
+msgid "Select Category"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:106
+#: framework/includes/classes/dopeItemForm.class.php:115
+msgid "Select Subcategory"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:112
+msgid "No Subcategory"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:135
+#: framework/includes/classes/dopeItemForm.class.php:212
+msgid "Select subcategory"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:136
+msgid "No subcategory"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:211
+msgid "Select category"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:356
+#: framework/includes/classes/dopeItemForm.class.php:365
+msgid "No change expiration"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:357
+#: framework/includes/classes/dopeItemForm.class.php:367
+msgid "Without expiration"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:358
+#: framework/includes/classes/dopeItemForm.class.php:369
+msgid "1 day"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:359
+#: framework/includes/classes/dopeItemForm.class.php:372
+#, php-format
+msgid "%d days"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:417 item-edit.php:71
+#: item-post.php:71 item.php:132 user-profile.php:99
+msgid "Description"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:470
+msgid "Select a country..."
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:514
+#: framework/includes/classes/dopeItemForm.class.php:852
+#: framework/includes/classes/dopeItemForm.class.php:883
+#: framework/includes/classes/dopeItemForm.class.php:890
+#: framework/includes/classes/dopeItemForm.class.php:892
+msgid "Select state, region or province..."
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:540
+#: framework/includes/classes/dopeItemForm.class.php:876
+#: framework/includes/classes/dopeItemForm.class.php:886
+#: framework/includes/classes/dopeItemForm.class.php:896
+#: framework/includes/classes/dopeItemForm.class.php:898
+#: framework/includes/classes/dopeItemForm.class.php:926
+msgid "Select a city..."
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:700
+#: framework/includes/classes/dopeItemForm.class.php:973
+msgid "Description needs to be longer"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:737
+#: framework/includes/classes/dopeItemForm.class.php:1022
+msgid "Choose one category"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:740
+#: framework/includes/classes/dopeItemForm.class.php:1025
+msgid "Price: no more than 50 characters"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:742
+#: framework/includes/classes/dopeItemForm.class.php:1027
+msgid "Currency: make your selection"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:746
+#: framework/includes/classes/dopeItemForm.class.php:1031
+#, php-format
+msgid "Photo: must be %s"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:751
+#: framework/includes/classes/dopeItemForm.class.php:1036
+msgid "Name: enter at least 3 characters"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:752
+#: framework/includes/classes/dopeItemForm.class.php:1037
+msgid "Name: no more than 35 characters"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:755
+#: framework/includes/classes/dopeItemForm.class.php:1040
+#: framework/includes/classes/dopeUserForm.class.php:177
+#: framework/includes/classes/dopeUserForm.class.php:287
+msgid "Email: this field is required"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:760
+#: framework/includes/classes/dopeItemForm.class.php:1051
+msgid "Address: enter at least 3 characters"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:761
+#: framework/includes/classes/dopeItemForm.class.php:1052
+msgid "Address: no more than 100 characters"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:798
+#: framework/includes/classes/dopeItemForm.class.php:1089
+#: framework/includes/classes/dopeItemForm.class.php:1323 user-alerts.php:51
+#: user-alerts.php:66
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:934
+#: framework/includes/classes/dopeUserForm.class.php:348
+#: framework/includes/classes/dopeUserForm.class.php:412
+msgid "No results"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1044
+msgid "Select a region"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1045
+msgid "Select a city"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1047
+msgid "City area: enter at least 3 characters"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1048
+msgid "City area: no more than 50 characters"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1155
+msgid "Remove"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1167
+msgid "Sorry, you have reached the maximum number of images per listing"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1283
+msgid "Images already uploaded"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1419
+msgid ""
+"Too many items ({netItems}) would be uploaded. Item limit is {itemLimit}."
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1420
+msgid ""
+"The files are being uploaded, if you leave now the upload will be cancelled."
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1421
+msgid "{file} has an invalid extension. Valid extension(s): {extensions}."
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1422
+msgid "{file} is too large, maximum file size is {sizeLimit}."
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1423
+msgid "{file} is empty, please select files again without it."
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1436
+msgid "Click or Drop for upload images"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1437
+msgid "Processing..."
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1438
+msgid "Retry"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1439
+msgid "Cancel"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1440
+msgid "Upload failed"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1442
+msgid "Deleting..."
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1443
+#, php-format
+msgid "{percent}% of {total_size}"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1458
+msgid "Make primary image"
+msgstr ""
+
+#: framework/includes/classes/dopeItemForm.class.php:1495
+#, php-format
+msgid "Too many items were uploaded. Item limit is %d."
+msgstr ""
+
+#: framework/includes/classes/dopeUserForm.class.php:89
+msgid "Select Country"
+msgstr ""
+
+#: framework/includes/classes/dopeUserForm.class.php:101
+#: framework/includes/classes/dopeUserForm.class.php:337
+#: framework/includes/classes/dopeUserForm.class.php:361
+#: framework/includes/classes/dopeUserForm.class.php:368
+#: framework/includes/classes/dopeUserForm.class.php:370
+msgid "Select Province or Capital"
+msgstr ""
+
+#: framework/includes/classes/dopeUserForm.class.php:113
+#: framework/includes/classes/dopeUserForm.class.php:356
+#: framework/includes/classes/dopeUserForm.class.php:364
+#: framework/includes/classes/dopeUserForm.class.php:374
+#: framework/includes/classes/dopeUserForm.class.php:376
+#: framework/includes/classes/dopeUserForm.class.php:405
+msgid "Select City or Town"
+msgstr ""
+
+#: framework/includes/classes/dopeUserForm.class.php:137
+msgid "User"
+msgstr ""
+
+#: framework/includes/classes/dopeUserForm.class.php:138
+msgid "Company"
+msgstr ""
+
+#: framework/includes/classes/dopeUserForm.class.php:145 user-items.php:38
+msgid "All"
+msgstr ""
+
+#: framework/includes/classes/dopeUserForm.class.php:174
+#: framework/includes/classes/dopeUserForm.class.php:284
+msgid "Name: this field is required"
+msgstr ""
+
+#: framework/includes/classes/dopeUserForm.class.php:181
+msgid "Password: this field is required"
+msgstr ""
+
+#: framework/includes/classes/dopeUserForm.class.php:182
+#: framework/includes/classes/dopeUserForm.class.php:291
+msgid "Password: enter at least 5 characters"
+msgstr ""
+
+#: framework/includes/classes/dopeUserForm.class.php:185
+msgid "Second password: this field is required"
+msgstr ""
+
+#: framework/includes/classes/dopeUserForm.class.php:186
+#: framework/includes/classes/dopeUserForm.class.php:294
+msgid "Second password: enter at least 5 characters"
+msgstr ""
+
+#: framework/includes/classes/dopeUserForm.class.php:187
+#: framework/includes/classes/dopeUserForm.class.php:295
+msgid "Passwords don't match"
+msgstr ""
+
+#: framework/includes/dt.breadcrumbs.php:19
+msgid "Post Ad"
+msgstr ""
+
+#: framework/includes/dt.breadcrumbs.php:20
+msgid "Edit Ad"
+msgstr ""
+
+#: framework/includes/dt.breadcrumbs.php:21 item-send-friend.php:32
+msgid "Send to a friend"
+msgstr ""
+
+#: framework/includes/dt.breadcrumbs.php:22
+msgid "Contact seller"
+msgstr ""
+
+#: framework/includes/dt.breadcrumbs.php:23
+msgid "Search results"
+msgstr ""
+
+#: framework/includes/dt.breadcrumbs.php:24
+#, php-format
+msgid "Search results: %s"
+msgstr ""
+
+#: framework/includes/dt.breadcrumbs.php:25 functions.php:134 header.php:89
+#: header.php:127 user-dashboard.php:28
+msgid "Ad Performance"
+msgstr ""
+
+#: framework/includes/dt.breadcrumbs.php:26
+#, php-format
+msgid "%s's profile"
+msgstr ""
+
+#: framework/includes/dt.breadcrumbs.php:27
+msgid "Account"
+msgstr ""
+
+#: framework/includes/dt.breadcrumbs.php:28 user-alerts.php:49
+msgid "Listings"
+msgstr ""
+
+#: framework/includes/dt.breadcrumbs.php:29 functions.php:148
+#: user-alerts.php:31
+msgid "Alerts"
+msgstr ""
+
+#: framework/includes/dt.breadcrumbs.php:30
+msgid "Update account"
+msgstr ""
+
+#: framework/includes/dt.breadcrumbs.php:31
+msgid "Change email"
+msgstr ""
+
+#: framework/includes/dt.breadcrumbs.php:32
+msgid "Change username"
+msgstr ""
+
+#: framework/includes/dt.breadcrumbs.php:33
+#: framework/includes/dt.breadcrumbs.php:36
+msgid "Change password"
+msgstr ""
+
+#: framework/includes/dt.breadcrumbs.php:35
+msgid "Recover password"
+msgstr ""
+
+#: framework/includes/dt.helpers.php:73
+msgid "Latest Searches"
+msgstr ""
+
+#: framework/includes/dt.helpers.php:140
+#: framework/includes/dt.helpers.php:162
+msgid "All categories"
+msgstr ""
+
+#: framework/init.php:66
+msgid "Theme Settings"
+msgstr ""
+
+#: front-loop-single-premium.php:33 front-loop-single.php:33
+msgid "by"
+msgstr ""
+
+#: front-loop-single-premium.php:48 front-loop-single.php:48 item.php:66
+msgid "Guest Seller"
+msgstr ""
+
+#: front-loop-single-premium.php:64 front-loop-single.php:64 item.php:108
+#: item.php:299
+msgid "Ask seller for price"
+msgstr ""
+
+#: front-loop-single-premium.php:73 front-loop-single.php:73 item.php:84
+#: loop-single.php:30
+msgid "View"
+msgstr ""
+
+#: front-loop-single.php:75 loop-single.php:33
+msgid "Edit"
+msgstr ""
+
+#: functions.php:21
+msgid "What are you looking for?"
+msgstr ""
+
+#: functions.php:26 functions.php:61
+msgid "(Browse All Categories) Go to..."
+msgstr ""
+
+#: functions.php:27 functions.php:62
+msgid "Play Slideshow"
+msgstr ""
+
+#: functions.php:28 functions.php:63
+msgid "Pause Slideshow"
+msgstr ""
+
+#: functions.php:29 functions.php:64
+msgid "&lsaquo; Prev Photo"
+msgstr ""
+
+#: functions.php:30 functions.php:65
+msgid "Next Photo &rsaquo;"
+msgstr ""
+
+#: functions.php:31 functions.php:66
+msgid "Next &rsaquo;"
+msgstr ""
+
+#: functions.php:32 functions.php:67
+msgid "&lsaquo; Prev"
+msgstr ""
+
+#: functions.php:33 functions.php:68
+msgid "Please type a keyword"
+msgstr ""
+
+#: functions.php:34 functions.php:69
+msgid "Ooops, what is your message?"
+msgstr ""
+
+#: functions.php:35 functions.php:70
+msgid "Oh, that is too short!"
+msgstr ""
+
+#: functions.php:36 functions.php:71
+msgid "Email is required"
+msgstr ""
+
+#: functions.php:37 functions.php:72
+msgid "Please enter a valid email"
+msgstr ""
+
+#: functions.php:38 functions.php:73
+msgid "Please enter your name"
+msgstr ""
+
+#: functions.php:39 functions.php:74
+msgid "No numbers or special symbols"
+msgstr ""
+
+#: functions.php:40 functions.php:75
+msgid "Please set your password"
+msgstr ""
+
+#: functions.php:41 functions.php:76
+msgid "Please confirm your password"
+msgstr ""
+
+#: functions.php:42 functions.php:77
+msgid "Please match with your password"
+msgstr ""
+
+#: functions.php:43 functions.php:78
+msgid "Please enter your registered email"
+msgstr ""
+
+#: functions.php:44 functions.php:79
+msgid "Please enter your valid registered email"
+msgstr ""
+
+#: functions.php:45 functions.php:80
+msgid "Please enter your password"
+msgstr ""
+
+#: functions.php:46 functions.php:81
+msgid "Please enter your new password"
+msgstr ""
+
+#: functions.php:47 functions.php:82
+msgid "Please confirm your new password"
+msgstr ""
+
+#: functions.php:48 functions.php:83
+msgid "Please match with your new password"
+msgstr ""
+
+#: functions.php:49 functions.php:84
+msgid "Please choose category"
+msgstr ""
+
+#: functions.php:50 functions.php:85
+msgid "Please specify item price"
+msgstr ""
+
+#: functions.php:51 functions.php:86
+msgid "Only number is accepted"
+msgstr ""
+
+#: functions.php:52 functions.php:87
+msgid "Please select an issue type"
+msgstr ""
+
+#: functions.php:53 functions.php:88
+msgid "Ooops, please write a comment"
+msgstr ""
+
+#: functions.php:111
+msgid "Settings saved correctly."
+msgstr ""
+
+#: functions.php:141 user-items.php:28
+msgid "All Listings"
+msgstr ""
+
+#: functions.php:169 user-change_email.php:32
+msgid "Change Email"
+msgstr ""
+
+#: functions.php:176 user-change_username.php:31
+msgid "Change Username"
+msgstr ""
+
+#: functions.php:183 user-change_password.php:31 user-forgot_password.php:50
+msgid "Change Password"
+msgstr ""
+
+#: header.php:57
+msgid "Home"
+msgstr ""
+
+#: header.php:86 header.php:124
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: header.php:93 header.php:131
+msgid "LogOut"
+msgstr ""
+
+#: item-edit.php:34
+msgid "Edit Ads"
+msgstr ""
+
+#: item-edit.php:34 user-items.php:28
+msgid "Add New Ads"
+msgstr ""
+
+#: item-edit.php:51 item-post.php:51 search-main-mobile.php:13
+#: search-main.php:13
+msgid "Category"
+msgstr ""
+
+#: item-edit.php:62 item-post.php:62
+msgid "Ad Details"
+msgstr ""
+
+#: item-edit.php:86 item-post.php:86 search-main.php:36
+#: side-widgets-search-mobile.php:39 side-widgets-search.php:39
+#: user-alerts.php:59
+msgid "Price"
+msgstr ""
+
+#: item-edit.php:101 item-post.php:101
+msgid "Photos"
+msgstr ""
+
+#: item-edit.php:112 item-post.php:112
+msgid "Location"
+msgstr ""
+
+#: item-edit.php:117 item-post.php:117 user-profile.php:57
+msgid "Address"
+msgstr ""
+
+#: item-edit.php:123 item-post.php:123 user-profile.php:61
+msgid "Country"
+msgstr ""
+
+#: item-edit.php:129 item-post.php:129 user-profile.php:65
+msgid "State / Region / Province"
+msgstr ""
+
+#: item-edit.php:135 item-post.php:135 side-widgets-search-mobile.php:26
+#: side-widgets-search.php:26 user-profile.php:69
+msgid "City"
+msgstr ""
+
+#: item-edit.php:141 item-post.php:141 user-profile.php:73
+msgid "Zip Code"
+msgstr ""
+
+#: item-edit.php:153 item-post.php:153
+msgid "Seller's information"
+msgstr ""
+
+#: item-edit.php:158 item-post.php:158 user-profile.php:45
+#: user-register.php:35
+msgid "Name"
+msgstr ""
+
+#: item-edit.php:164 item-post.php:164 user-change_email.php:48
+#: user-login.php:35 user-recover.php:35 user-register.php:41
+msgid "Email"
+msgstr ""
+
+#: item-edit.php:168 item-post.php:168
+msgid "Show email on the listing page"
+msgstr ""
+
+#: item-edit.php:183 item-edit.php:213 item-post.php:183 item-post.php:213
+msgid "Publish"
+msgstr ""
+
+#: item-edit.php:213 item-post.php:213 user-change_email.php:51
+#: user-change_password.php:54 user-change_username.php:51
+msgid "Update"
+msgstr ""
+
+#: item-send-friend.php:17
+msgid " "
+msgstr ""
+
+#: item-send-friend.php:38
+msgid "Your name*"
+msgstr ""
+
+#: item-send-friend.php:44
+msgid "Your email*"
+msgstr ""
+
+#: item-send-friend.php:51
+msgid "Your friend's name*"
+msgstr ""
+
+#: item-send-friend.php:57
+msgid "Your friend's email*"
+msgstr ""
+
+#: item-send-friend.php:63
+msgid "Subject (optional)"
+msgstr ""
+
+#: item-send-friend.php:84
+msgid "&laquo; Back to item"
+msgstr ""
+
+#: item.php:72
+#, php-format
+msgid "<span class=\"update btn-xs\">Edited last %1$s</span>"
+msgstr ""
+
+#: item.php:78
+msgid "Edit item"
+msgstr ""
+
+#: item.php:80 loop-single.php:36
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr ""
+
+#: item.php:80
+msgid "Delete item"
+msgstr ""
+
+#: item.php:84 user-alerts.php:60 user-items.php:48 user-items.php:58
+msgid "Views"
+msgstr ""
+
+#: item.php:112 item.php:303
+#, php-format
+msgid "<span class=\"publish\">Published on <time>%1$s</time></span>"
+msgstr ""
+
+#: item.php:133
+msgid "Contact Seller"
+msgstr ""
+
+#: item.php:135
+msgid "Report"
+msgstr ""
+
+#: item.php:146
+msgid "Price:"
+msgstr ""
+
+#: item.php:167
+msgid "Category:"
+msgstr ""
+
+#: item.php:181
+msgid "It's your own listing, you can't contact the seller."
+msgstr ""
+
+#: item.php:235
+msgid "What is the issue?*"
+msgstr ""
+
+#: item.php:239
+msgid "Spam"
+msgstr ""
+
+#: item.php:243
+msgid "Misclassified or wrong category"
+msgstr ""
+
+#: item.php:247
+msgid "Duplicated"
+msgstr ""
+
+#: item.php:251
+msgid "Expired"
+msgstr ""
+
+#: item.php:255
+msgid "Offensive content"
+msgstr ""
+
+#: item.php:259
+msgid ""
+"Flagged listings and users are reviewed by our staff 24 hours a day, seven "
+"days a week to determine whether they violate our Post guidelines. Accounts "
+"are penalized for Post Guidelines violations and serious or repeated "
+"violations can lead to account termination."
+msgstr ""
+
+#: item.php:283 item.php:284
+msgid "image"
+msgstr ""
+
+#: loop-single.php:58
+msgid "Non-expiry Ad"
+msgstr ""
+
+#: main.php:20 page.php:15
+msgid " / "
+msgstr ""
+
+#: main.php:38
+msgid "Recent"
+msgstr ""
+
+#: main.php:44 user-public-profile.php:118
+msgid "There aren't listings available at this moment"
+msgstr ""
+
+#: main.php:53
+msgid "See all listings"
+msgstr ""
+
+#: search-main-mobile.php:14
+msgid "GO SEARCH ITEM"
+msgstr ""
+
+#: search-main.php:18
+msgid "GO"
+msgstr ""
+
+#: search-main.php:21
+msgid "Toggle Download"
+msgstr ""
+
+#: search-main.php:24
+msgid "Advanced Search"
+msgstr ""
+
+#: search-main.php:28 side-widgets-search-mobile.php:31
+#: side-widgets-search.php:31
+msgid "Show only"
+msgstr ""
+
+#: search-main.php:30 side-widgets-search-mobile.php:33
+#: side-widgets-search.php:33
+msgid "ad with pictures"
+msgstr ""
+
+#: search-main.php:38 side-widgets-search-mobile.php:41
+#: side-widgets-search.php:41
+msgid "Min"
+msgstr ""
+
+#: search-main.php:42 side-widgets-search-mobile.php:45
+#: side-widgets-search.php:45
+msgid "Max"
+msgstr ""
+
+#: search.php:37
+msgid "Selected"
+msgstr ""
+
+#: search.php:38
+msgid "Nothing selected, input was"
+msgstr ""
+
+#: search.php:57
+msgid "Recommended"
+msgstr ""
+
+#: search.php:69
+msgid "No Result Found"
+msgstr ""
+
+#: search.php:71
+msgid "Search Results"
+msgstr ""
+
+#: search.php:74
+#, php-format
+msgid "%1$d - %2$d of %3$d listings"
+msgstr ""
+
+#: search.php:79
+msgid "Sort by"
+msgstr ""
+
+#: search.php:122
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr ""
+
+#: side-widgets-homepage.php:14
+msgid "Shop by Location"
+msgstr ""
+
+#: side-widgets-homepage.php:22
+msgid "No item yet."
+msgstr ""
+
+#: side-widgets-item.php:16 side-widgets-login.php:16
+#: side-widgets-public-profile.php:69 side-widgets.php:16
+#: user-dashboard.php:40
+msgid "Post a Free Ad"
+msgstr ""
+
+#: side-widgets-public-profile.php:21
+msgid "Contact Seller <small>via Email</small>"
+msgstr ""
+
+#: side-widgets-public-profile.php:29
+msgid "Phone Number"
+msgstr ""
+
+#: side-widgets-search-mobile.php:15 side-widgets-search.php:15
+msgid "Search Filter"
+msgstr ""
+
+#: side-widgets-search-mobile.php:23 side-widgets-search.php:23
+msgid "Search here"
+msgstr ""
+
+#: side-widgets-search-mobile.php:66 side-widgets-search.php:66
+msgid "Apply"
+msgstr ""
+
+#: useful-info.php:12
+msgid "Safety Tips"
+msgstr ""
+
+#: useful-info.php:14
+msgid "Review the descriptions of the item carefully."
+msgstr ""
+
+#: useful-info.php:15
+msgid ""
+"Be very cautious on items with irrelevant or exaggerated descriptions, it "
+"might be a scam."
+msgstr ""
+
+#: useful-info.php:16
+msgid "If the offer sounds too good to be true verify by meeting up."
+msgstr ""
+
+#: useful-info.php:17
+msgid ""
+"Only meet in a public place like malls or restaurants when meeting with the "
+"buyer/seller."
+msgstr ""
+
+#: useful-info.php:18
+msgid ""
+"To assure that the item is not stolen, always ask to check the original "
+"receipt, proof of purchase, legal documents or verify thru police inquiry."
+msgstr ""
+
+#: useful-info.php:19
+msgid ""
+"When in doubt on the authenticity of the item, have it check at an "
+"authorized shop or boutique."
+msgstr ""
+
+#: user-alerts.php:40
+msgid "You do not have any alerts yet"
+msgstr ""
+
+#: user-alerts.php:46
+msgid "Alert"
+msgstr ""
+
+#: user-alerts.php:51 user-alerts.php:66
+msgid "Delete this alert"
+msgstr ""
+
+#: user-alerts.php:61 user-items.php:49 user-items.php:59
+msgid "Published Date"
+msgstr ""
+
+#: user-change_email.php:43
+msgid "Current Email"
+msgstr ""
+
+#: user-change_email.php:47
+msgid "New Email"
+msgstr ""
+
+#: user-change_password.php:42
+msgid "Current Password"
+msgstr ""
+
+#: user-change_password.php:43
+msgid "Old Password"
+msgstr ""
+
+#: user-change_password.php:46 user-forgot_password.php:37
+msgid "New Password"
+msgstr ""
+
+#: user-change_password.php:47
+msgid "Desired Password"
+msgstr ""
+
+#: user-change_password.php:50
+msgid "Repeat New Password"
+msgstr ""
+
+#: user-change_password.php:51
+msgid "Verify Desired Password"
+msgstr ""
+
+#: user-change_username.php:42
+msgid "Current Username"
+msgstr ""
+
+#: user-change_username.php:46
+msgid "New Username"
+msgstr ""
+
+#: user-change_username.php:47
+msgid "Username"
+msgstr ""
+
+#: user-dashboard.php:28
+msgid "Statistics Overview"
+msgstr ""
+
+#: user-dashboard.php:35
+msgid "Welcome to "
+msgstr ""
+
+#: user-dashboard.php:37
+msgid "Online buy and sell site where buyer meets seller."
+msgstr ""
+
+#: user-dashboard.php:56
+msgid "Total Active Ads"
+msgstr ""
+
+#: user-dashboard.php:64
+msgid "Check Active Ads"
+msgstr ""
+
+#: user-dashboard.php:84
+msgid "Total Ad Views"
+msgstr ""
+
+#: user-dashboard.php:92
+msgid "Learn More"
+msgstr ""
+
+#: user-forgot_password.php:35
+msgid "Recover Forgot Password"
+msgstr ""
+
+#: user-forgot_password.php:43
+msgid "Confirm New Password"
+msgstr ""
+
+#: user-items.php:46 user-items.php:56
+msgid "Ad Title"
+msgstr ""
+
+#: user-items.php:47 user-items.php:57
+msgid "Item Price"
+msgstr ""
+
+#: user-items.php:50 user-items.php:60
+msgid "Expiration Date"
+msgstr ""
+
+#: user-login.php:41 user-register.php:47
+msgid "Password"
+msgstr ""
+
+#: user-login.php:50
+msgid "Remember me"
+msgstr ""
+
+#: user-login.php:58
+msgid "Forgot password?"
+msgstr ""
+
+#: user-login.php:60
+msgid "New to "
+msgstr ""
+
+#: user-login.php:61
+msgid "SignUp Now &raquo;"
+msgstr ""
+
+#: user-profile.php:42
+msgid "Basic Info"
+msgstr ""
+
+#: user-profile.php:49
+msgid "User Type"
+msgstr ""
+
+#: user-profile.php:54
+msgid "Location Info"
+msgstr ""
+
+#: user-profile.php:80
+msgid "Contact Info"
+msgstr ""
+
+#: user-profile.php:83
+msgid "Mobile No."
+msgstr ""
+
+#: user-profile.php:87
+msgid "Landline No."
+msgstr ""
+
+#: user-profile.php:92
+msgid "Extra Info"
+msgstr ""
+
+#: user-profile.php:95
+msgid "Website"
+msgstr ""
+
+#: user-profile.php:107
+msgid "Everything looks good?"
+msgstr ""
+
+#: user-profile.php:108
+msgid "Apply Changes"
+msgstr ""
+
+#: user-public-profile.php:51
+msgid "online"
+msgstr ""
+
+#: user-public-profile.php:53
+msgid "offline"
+msgstr ""
+
+#: user-public-profile.php:61
+msgid "Member Since:"
+msgstr ""
+
+#: user-public-profile.php:64
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: user-public-profile.php:84
+msgid ""
+"Hi there! thanks for viewing my profile if you're interested with my item "
+"you may contact me."
+msgstr ""
+
+#: user-public-profile.php:112
+msgid "Seller Item List"
+msgstr ""
+
+#: user-recover.php:33
+msgid "Forgot your password?"
+msgstr ""
+
+#: user-recover.php:43
+msgid "Send me a new password"
+msgstr ""
+
+#: user-recover.php:45
+msgid "Need help?"
+msgstr ""
+
+#: user-recover.php:46
+msgid "Please contact "
+msgstr ""
+
+#: user-register.php:53
+msgid "Repeat Password"
+msgstr ""
+
+#: user-register.php:81
+msgid "By clicking the button, you agree to our term"
+msgstr ""
+
+#: user-register.php:82
+msgid "Terms"
+msgstr ""
+
+#: user-register.php:84
+msgid "Privacy"
+msgstr ""
